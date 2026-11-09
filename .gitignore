@@ -1,0 +1,18 @@
+# Бинарники
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+smena
+
+# Окружение
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
